@@ -1,2 +1,2 @@
 # OFDM-simulations
-in this project we proof that ofdm can apply to the input as a single matrix directly !!
+In this project equality of ofdm operator with fft of channel matrix is proffed and channel is estimated by adding pilot symbols to ofdm symbols.
